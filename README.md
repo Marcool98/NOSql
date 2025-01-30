@@ -314,4 +314,3 @@ Modifier un champ JSON sans réécrire tout l’objet :
 ```bash
 JSON.SET user:1001 $.age 31
 ```
-```
